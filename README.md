@@ -1,2 +1,2 @@
 # robofriends
-Tutorial for udemy course - React
+Tutorial for course - React
